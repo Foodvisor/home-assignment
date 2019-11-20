@@ -87,7 +87,7 @@ cf. Assignment #1
 Please check this [release](https://github.com/Foodvisor/home-assignment/releases/tag/v0.1.0) attachments for the data you can use to test your code:
 
 - label_mapping.csv: the names of each class (available both in English and French)
-- img_annotations.json: the image annotations _(bounding box in format [upper_left_x, upper_left, y, lower_right_x, lower_right_y], the associated class id, and whether this class is considered as background)_
+- img_annotations.json: the image annotations _(bounding box in format [upper_left_x, upper_left, y, height, width], the associated class id, and whether this class is considered as background)_
 - image folder: the archived image folder that your interviewer sent you
 
 
