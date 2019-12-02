@@ -24,6 +24,7 @@ Your implementation is expected to be a GitHub (or similar) repository, implemen
 
 Your repository should include:
 
+- a function has_tomatoes() that takes an image path as an input and outputs True or False depending on your predection
 - instructions to install requirements to run your code
 - clear instructions to train your model on the provided database
 - plots of training and test accuracy
